@@ -1,16 +1,24 @@
-# project
+# Smart Notes App 📝
 
-A new Flutter project.
+A Flutter-based Smart Notes application that allows users to create, edit, and manage notes efficiently.
 
-## Getting Started
+## 🚀 Features
+- Create notes
+- Edit notes
+- Delete notes
+- Clean and simple UI
+- Fast performance
 
-This project is a starting point for a Flutter application.
+## 🛠️ Built With
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+Developed by Deekshitha 💙
