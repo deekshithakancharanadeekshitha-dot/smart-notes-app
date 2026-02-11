@@ -20,5 +20,9 @@ A Flutter-based Smart Notes application that allows users to create, edit, and m
 3. Run `flutter run`
 
 ---
+## 📱 App Screenshots
+
+![Home Screen](screenshots/home.png)
+
 
 Developed by Deekshitha 💙
