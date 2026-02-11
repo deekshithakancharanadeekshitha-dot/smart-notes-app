@@ -22,7 +22,7 @@ A Flutter-based Smart Notes application that allows users to create, edit, and m
 ---
 ## 📱 App Screenshots
 
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/.gitkeep)
 
 
 Developed by Deekshitha 💙
